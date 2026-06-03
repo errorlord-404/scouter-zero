@@ -7,3 +7,20 @@ git init :- initialize empty git repositry
 
 git add . adds all file for tracking 
 git add /filename only adds that file 
+
+git commit -m "comment to make your teammates understand your changes"
+
+git branch :- tells you the branch on which you are working currently 
+
+git branch /name of the branch take you to new branch
+
+git push :- push your code on a branch
+
+set origin so your online github is connected with your offline git software 
+
+git remote -v : tells the connected repositry
+git remote add origin: add the link of repositry
+
+finally push your code on github by 
+git push -u origin  branch name 
+
