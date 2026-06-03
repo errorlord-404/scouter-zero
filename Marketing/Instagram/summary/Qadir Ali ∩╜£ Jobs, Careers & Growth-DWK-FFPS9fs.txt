@@ -1,0 +1,27 @@
+# AI-Powered Resume Tailoring Automation (Hindi)
+**Source:** https://www.instagram.com/reel/DWK-FFPS9fs/
+**Creator:** Qadir Ali | Jobs, Careers & Growth (@kaamkibaatein_)
+
+## Overview
+A Hindi-language reel demonstrating an automation workflow to create perfectly tailored resumes for every job application using Claude AI. The core promise: upload your resume once and get a custom-tailored version for each job in seconds.
+
+## Key Ideas & Insights
+*Note: Transcription quality is limited due to audio being in Hindi with transliteration artifacts. Core message reconstructed from available content.*
+
+- Upload your resume to Claude
+- Paste the job description into the same chat
+- Claude generates a tailored resume matched to that specific job
+- A download button appears with the result
+- Each job gets its own tailored resume — shortlisting chances improve significantly
+- An automation handles this so you don't have to repeat the process manually each time
+- The prompt used for this workflow can be obtained by commenting on or following the reel (DM automation)
+- CTA: "Follow for similar practical hacks that actually work"
+
+## Tools Mentioned
+- **Claude** — used to generate job-specific tailored resumes
+
+## Examples & Case Studies
+None explicitly named.
+
+## Sponsors & Free Offers
+None. CTA: Share/save the reel to receive the prompt via DM automation.

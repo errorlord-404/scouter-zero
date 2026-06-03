@@ -1,0 +1,43 @@
+# 5 Ways I Use AI for Content Marketing
+**Source:** https://www.instagram.com/reels/DYj0imohYWv/
+**Creator:** Ava | Content Marketing | Social Media Management (@personalbrandlaunch)
+
+## Overview
+A practical walkthrough of 5 specific AI-powered workflows Ava uses in her real content marketing practice — from hook writing to story analytics. Each use case is precise and immediately actionable for personal brand builders and social media managers.
+
+## Key Ideas & Insights
+
+1. **AI for viral hooks**
+   - Prompt AI to find "viral outlier hooks" in your specific niche
+   - Request written hooks, verbal hooks, and visual hooks separately — three different formats for the same idea
+
+2. **AI for viral scripts with fill-in-the-blank structures**
+   - Feed AI multiple proven viral scripts (even from outside your niche)
+   - Have AI break down *why* each script went viral
+   - Ask AI to turn those scripts into fill-in-the-blank templates
+   - Apply those templates to your own niche content
+
+3. **AI for carousels from viral reels**
+   - Take your own reels that already went viral
+   - Have AI convert them into carousel posts
+   - Logic: the topic is already proven — repurpose it into a different format
+
+4. **AI for content ideas from real life**
+   - AI listens to and transcribes your calls
+   - AI reads your calendar each week
+   - AI scans through your emails
+   - Output: content ideas based on real lessons, experiences, and things you actually learned that week — authentic content rooted in lived experience
+
+5. **AI for story iterations from analytics**
+   - Feed AI your story performance analytics
+   - AI identifies best-performing content
+   - AI creates different iterations/versions of that top content to recreate its success
+
+## Tools Mentioned
+- AI (generic — no specific tool named, but workflows imply ChatGPT/Claude-class tools)
+
+## Examples & Case Studies
+None explicitly named.
+
+## Sponsors & Free Offers
+None. CTA: "Follow for more social media marketing education."

@@ -1,0 +1,33 @@
+# Build a Viral AI Instagram Account That Sells Digital Products
+**Source:** https://www.instagram.com/reels/DXcaWHsCod4/
+**Creator:** Maverick Maltin | AI & ChatGPT (@mavgpt)
+
+## Overview
+A step-by-step playbook for building a viral Instagram account using AI tools, modeled after real accounts already generating $100,000/month. The core idea: find a working niche persona, clone its content strategy with AI-generated scripts and videos, post aggressively, then monetize with a digital product.
+
+## Key Ideas & Insights
+- The "monk account" on Instagram is cited as the proof of concept — a faceless account selling a happiness e-book making $100k/month.
+- The workflow is entirely replicable and requires no on-camera presence.
+
+**Step-by-step process:**
+1. Find a viral niche account as inspiration (e.g., the monk account)
+2. Go to Claude → prompt it to analyze what the account talks about and why it goes viral
+3. Define a persona (example: "wise surfer sitting on a surfboard, talks about wisdom, happiness, surfer philosophy")
+4. Prompt Claude: "Write 50 viral scripts for this surfer persona similar to the monk account"
+5. Take scripts to Higgsfield (AI video generation tool) → paste script → generate video
+6. Create a new Instagram account for this persona
+7. Download video from Higgsfield → upload to Instagram with a simple caption → post
+8. Posting cadence: 5 videos per day, every 2 hours. Schedule them in advance.
+9. Once traction builds, go back to Claude → prompt: "Make me a digital product — a Surfer Wisdom e-book"
+10. Sell the e-book to the audience
+
+## Tools Mentioned
+- **Claude** — AI assistant used for account analysis, script writing, and digital product creation
+- **Higgsfield** — AI video generation tool; paste a script, generate a video
+
+## Examples & Case Studies
+- **The Monk Account** — Faceless Instagram account making $100,000/month selling a "happiness e-book." Used as the benchmark and inspiration model for the entire strategy.
+- **Wise Surfer persona** — Hypothetical persona the creator builds live as an example: surfboard, wisdom + happiness content, surfer philosophy angle.
+
+## Sponsors & Free Offers
+None.
