@@ -1,0 +1,9 @@
+watch akash gupta
+github tut
+
+git status :- gives status about your work
+
+git init :- initialize empty git repositry 
+
+git add . adds all file for tracking 
+git add /filename only adds that file 
